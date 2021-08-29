@@ -1506,10 +1506,10 @@
     bn.js "^5.1.2"
     buffer-layout "^1.2.0"
 
-"@project-serum/serum@^0.13.45":
-  version "0.13.48"
-  resolved "https://registry.yarnpkg.com/@project-serum/serum/-/serum-0.13.48.tgz#b72dd4aa830f24c0f277eb9af5063ebe5738d013"
-  integrity sha512-dR/FJ7cNdMShb01ybbkoOwxQLaH6BxkWBv3CHGGq1VsXBVIpgOU454m9uPRbli3IuOcfaJDPdKC2gtQqnw+8JQ==
+"@project-serum/serum@^0.13.57":
+  version "0.13.57"
+  resolved "https://registry.yarnpkg.com/@project-serum/serum/-/serum-0.13.57.tgz#e194f5a7bb28c50cd3611d6f1559fd09e060b748"
+  integrity sha512-I638MKCEIQDv1WoPeRJhjOUmAn73fQCy1hNyb3f6GIecwxfiesoN6e0CClXyN7GG2nE7KPjFejGkF1KziJaltA==
   dependencies:
     "@project-serum/anchor" "^0.11.1"
     "@solana/spl-token" "^0.1.6"
@@ -1586,7 +1586,7 @@
     superstruct "^0.14.2"
     tweetnacl "^1.0.0"
 
-"@solana/web3.js@^1.17.0", "@solana/web3.js@^1.21.0":
+"@solana/web3.js@^1.17.0", "@solana/web3.js@^1.21.0", "@solana/web3.js@^1.24.1":
   version "1.24.1"
   resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.24.1.tgz#1fb29f344454669183206f452ab3b8792567cade"
   integrity sha512-XImMWAvjcXteMQwe1FFjoe6u72xmcu+UYobPIxLEMX29XXWVTalyYRKBXvcOXwz6DliTYnFXmncNEwUDEFFHGg==
@@ -1597,26 +1597,6 @@
     borsh "^0.4.0"
     bs58 "^4.0.1"
     buffer "6.0.1"
-    crypto-hash "^1.2.2"
-    jayson "^3.4.4"
-    js-sha3 "^0.8.0"
-    node-fetch "^2.6.1"
-    rpc-websockets "^7.4.2"
-    secp256k1 "^4.0.2"
-    superstruct "^0.14.2"
-    tweetnacl "^1.0.0"
-
-"@solana/web3.js@^1.18.0":
-  version "1.18.0"
-  resolved "https://registry.yarnpkg.com/@solana/web3.js/-/web3.js-1.18.0.tgz#f4c422a843aa57a1366d98b06cb6b45441644d59"
-  integrity sha512-ijAoRd4Sje1QYoPAwDr7KYlDK40FE7tAUa2V3wT4PGKatWf4ETDXoyYlW89J6vrqOT+mV3GUuaVC76tOFlrXyA==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    bn.js "^5.0.0"
-    borsh "^0.4.0"
-    bs58 "^4.0.1"
-    buffer "6.0.1"
-    buffer-layout "^1.2.0"
     crypto-hash "^1.2.2"
     jayson "^3.4.4"
     js-sha3 "^0.8.0"
