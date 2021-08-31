@@ -31,7 +31,7 @@
     }
   },
   "dependencies": {
-    "@blockworks-foundation/mango-client": "https://github.com/ShoboySnr/mango-client-v3.git",
+    "@blockworks-foundation/mango-client": "^3.0.12",
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.1.5",
     "@headlessui/react": "^1.2.0",

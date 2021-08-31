@@ -977,9 +977,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@blockworks-foundation/mango-client@https://github.com/ShoboySnr/mango-client-v3.git":
+"@blockworks-foundation/mango-client@^3.0.12":
   version "3.0.12"
-  resolved "https://github.com/ShoboySnr/mango-client-v3.git#0649b370ef6f9a61ae0e74986fd7738031bdbd8e"
+  resolved "https://registry.yarnpkg.com/@blockworks-foundation/mango-client/-/mango-client-3.0.12.tgz#84af4b04ef936138b02b3257470a8f80e0f22183"
+  integrity sha512-gDwn2feXPMuyxb+mQXXJfAlyVLojnCifPbvxfRNikV4nswHQmPVQ1GhLzqAYXxqxANBiRlDB3uHISnnQp0Xqcw==
   dependencies:
     "@project-serum/serum" "0.13.55"
     "@project-serum/sol-wallet-adapter" "^0.2.0"
@@ -2574,9 +2575,9 @@ borsh@^0.4.0:
     bs58 "^4.0.0"
     text-encoding-utf-8 "^1.0.2"
 
-"borsh@https://github.com/defactojob/borsh-js#field-mapper":
+"borsh@git+https://github.com/defactojob/borsh-js.git#field-mapper":
   version "0.3.1"
-  resolved "https://github.com/defactojob/borsh-js#33a0d24af281112c0a48efb3fa503f3212443de9"
+  resolved "git+https://github.com/defactojob/borsh-js.git#33a0d24af281112c0a48efb3fa503f3212443de9"
   dependencies:
     "@types/bn.js" "^4.11.5"
     bn.js "^5.0.0"
